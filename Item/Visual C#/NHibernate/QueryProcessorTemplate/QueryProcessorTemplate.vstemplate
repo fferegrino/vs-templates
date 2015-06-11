@@ -5,7 +5,7 @@
     <Description>Agrega un nuevo query processor</Description>
     <ProjectType>CSharp</ProjectType>
     <SortOrder>10</SortOrder>
-    <Icon>__TemplateIcon.ico</Icon>
+    <Icon>QueryProcessorTemplateIcon.ico</Icon>
   </TemplateData>
   <TemplateContent>
     <References />
